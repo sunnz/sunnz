@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-👋 Hi, I’m @sunnz
-👀 I’m interested in coding and making small cool programs
+👋 Hi, I’m @sunnz  
+👀 I’m interested in coding and making small cool programs  
 🌱 I’m currently learning typescript
 
 <!--
