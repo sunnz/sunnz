@@ -4,7 +4,9 @@
 👀 I’m interested in making cool programs  
 🌱 I’m currently learning to code
 
-🌿 embrace the past, safeguard the future – our bond with the land is our source of power. #alwaysWasAlwaysWillBe 🌏
+🌿 Welcome to Country 🌿
+
+As a developer on Naarm I respectfully acknowledge the traditional custodians of the land on which I live and work the Wurundjeri, Boonwurrung, Wathaurrung, Daungwurrung, Dja Dja Wurrung people of the Kulin Nation. I pay my respects to their elders past present emerging this land always was and always will be Aboriginal land. #alwaysWasAlwaysWillBe 🌏
 
 <!--
 **sunnz/sunnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
