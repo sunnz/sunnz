@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @sunnz  
 👀 I’m interested in making cool programs  
-🌱 I’m currently learning to code
+🌱 I’m currently learning flutter
 
 🌿 Welcome to Country 🌿
 
