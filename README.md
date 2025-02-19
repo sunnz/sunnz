@@ -1,4 +1,4 @@
-### Hi there 👋
+### wominjeka 👋
 
 👋 Hi, I’m @sunnz  
 👀 I’m interested in making cool programs  
