@@ -8,8 +8,15 @@
 
 As a developer on Naarm I respectfully acknowledge the traditional custodians of the land on which I live and work the Wurundjeri, Boonwurrung, Wathaurrung, Daungwurrung, Dja Dja Wurrung people of the Kulin Nation. I pay my respects to their elders past present emerging this land always was and always will be Aboriginal land. #alwaysWasAlwaysWillBe 🌏
 
+### what I use 🔧
+
+- GraphQL Network Inspector: https://github.com/warrenday/graphql-network-inspector
+- Zen Browser: https://zen-browser.app/
+- Beekeeper Studio database client: https://www.beekeeperstudio.io/
+- Proton VPN: https://proton-vpn.org/
+- Continue.dev AI code assistant: https://www.continue.dev/
+
 <!--
-**sunnz/sunnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
