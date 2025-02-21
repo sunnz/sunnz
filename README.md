@@ -12,6 +12,7 @@ As a developer on Naarm I respectfully acknowledge the traditional custodians of
 
 - GraphQL Network Inspector: https://github.com/warrenday/graphql-network-inspector
 - Zen Browser: https://zen-browser.app/
+- HTTPie: https://httpie.io/
 - Beekeeper Studio database client: https://www.beekeeperstudio.io/
 - Proton VPN: https://proton-vpn.org/
 - Continue.dev AI code assistant: https://www.continue.dev/
